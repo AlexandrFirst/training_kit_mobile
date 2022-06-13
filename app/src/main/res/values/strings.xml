@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">training_kit_mobile</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Login</item>
+        <item>Register</item>
+    </string-array>
+</resources>
